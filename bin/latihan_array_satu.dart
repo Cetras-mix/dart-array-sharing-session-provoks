@@ -1,8 +1,8 @@
 import 'dart:io';
 
-void main() {  
+void main() {
   stdout.write("Masukkan jumlah elemen array: ");
-
+  // Check heck
   // TODO: Deklarasikan List<int> untuk arrayA, arrayB, dan hasil
   // TODO: Deklarasikan variabel sum untuk menyimpan total penjumlahan
 
@@ -20,5 +20,4 @@ void main() {
   // TODO: Hitung total (sum) dari seluruh elemen hasil
 
   // TODO: Tampilkan hasil total penjumlahan
-
 }
